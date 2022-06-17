@@ -1,5 +1,7 @@
 ## Olá 👋 eu sou o Kairon Ferreira!
 
+⚙️GitHub Analytics
+##
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=kaironferreira&show_icons=true&theme=dark">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaironferreira&theme=dark&layout=compact&langs_count=7">
@@ -15,6 +17,7 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />  
 </div>
 
+🛠 Tech
 ##
 
 <div>
