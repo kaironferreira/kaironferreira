@@ -1,13 +1,15 @@
 ## Olá 👋 eu sou o Kairon Ferreira!
 
-⚙️GitHub Analytics
-##
+## ⚙️GitHub Analytics
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=kaironferreira&show_icons=true&theme=dark">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaironferreira&theme=dark&layout=compact&langs_count=7">
 </div>
 
-<div style="diplay: inline-block"> <br>
+## 🛠 Tech
+
+<div style="diplay: inline-block">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -17,8 +19,8 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />  
 </div>
 
-🛠 Tech
-##
+
+## 💻 Contacts
 
 <div>
   <a href="https://github.com/kaironferreira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><a/>
